@@ -5,5 +5,3 @@
 <br>
 <img width="412" alt="3" src="https://github.com/AhmedHassan2023/STM32_IR_Smart_Board/assets/142262794/22da2c66-1d90-4a7a-b972-6e2b751dbe4f">
 
-
-
